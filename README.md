@@ -1,5 +1,6 @@
 # 🚴‍♂️ Bike Sharing Dashboard  
 
+🔗 Akses Dashboard Online: Bike Sharing Dashboard
 Dashboard interaktif untuk menganalisis pola peminjaman sepeda menggunakan **Bike Sharing Dataset**.  
 Dibangun dengan **Streamlit**, **Pandas**, dan **Matplotlib** untuk memberikan visualisasi data yang informatif dan interaktif.
 
