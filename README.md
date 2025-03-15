@@ -1,6 +1,6 @@
 # 🚴‍♂️ Bike Sharing Dashboard  
 
-🔗 Akses Dashboard Online: [Bike Sharing Dashboard](https://bike-sharing-dashboard-dupquvstbzkeuf6benwjcx.streamlit.app/)
+🔗 Akses Dashboard Online: [Bike Sharing Dashboard](https://bike-sharing-dashboard-finaulia24.streamlit.app/)
 
 
 Dashboard interaktif untuk menganalisis pola peminjaman sepeda menggunakan **Bike Sharing Dataset**.  
