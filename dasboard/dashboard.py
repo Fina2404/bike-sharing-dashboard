@@ -4,9 +4,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-day_df = pd.read_csv("day_clean.csv")
+day_df = pd.read_csv("dashboard/day_clean.csv")
 day_df['date'] = pd.to_datetime(day_df['date'])
-hour_df = pd.read_csv("hour_clean.csv")
+hour_df = pd.read_csv("dashboard/hour_clean.csv")
 hour_df['date'] = pd.to_datetime(hour_df['date'])
 
 # Konfigurasi Halaman
