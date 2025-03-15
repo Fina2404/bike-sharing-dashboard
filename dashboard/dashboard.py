@@ -44,7 +44,7 @@ tabs = st.tabs(["🏠 Home", "📊 Pertanyaan 1", "📊 Pertanyaan 2", "📌 Kes
 # --- Halaman Home ---
 with tabs[0]:  
     st.title("🚴‍♂️ Bike Sharing Dashboard")
-    st.image("bike_image.jpg", use_container_width=True)
+    st.image("dashboard/bike_image.jpg", use_container_width=True)
     st.markdown("Selamat datang di dashboard analisis data **Bike Sharing Dataset**. Pilih tab di atas untuk mulai eksplorasi data!")
 
 # --- Halaman Pertanyaan 1 ---
